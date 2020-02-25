@@ -44,7 +44,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: Iván Martín
 - :woman: Cristina Rodríguez
-- :woman: Marcos Rivas
+- :man: Marcos Rivas
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
