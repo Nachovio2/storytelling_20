@@ -12,7 +12,7 @@ Creación de un ChatBot para contar una historia sobre un camarero desequilibrad
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/Nachovio2/storytelling_20/blob/master/WhatsApp%20Image%202020-02-25%20at%2010.50.29.jpeg)
 
 Nombre: Nachovio
 
