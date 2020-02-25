@@ -2,13 +2,13 @@
 
 # Proyecto HRUN2020 (template): 
 
-Nombre del Equipo: Cortijos Nuevos
+Nombre del Equipo: Cortijos Nuevos.
 
-Proyecto (código): ChatBot 
+Proyecto (código): Creación ChatBot.
 
 
 ## Resumen
-
+Creación de un ChatBot para contar una historia sobre un camarero desequilibrado.
 
 ### Personaje
 
@@ -18,13 +18,13 @@ Nombre: Nachovio
 
 
 ### Historia
-
+Camarero desequilibrado está frustrado por su trabajo y quiere vengarse de algunos de sus clientes más molestos.
 
 ### Contexto
-
+Típico bar de pueblo lleno de catetos.
 
 ### Conflicto 
-
+El usuario que sigue la historia en el ChatBot deberá aconsejar al camarero sobre lo que tiene que hacer.
 
 - ChatBot: (enlace) 
 
