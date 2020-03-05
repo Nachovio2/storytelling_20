@@ -26,7 +26,7 @@ Típico bar de pueblo lleno de catetos.
 ### Conflicto 
 El usuario que sigue la historia en el ChatBot deberá aconsejar al camarero sobre lo que tiene que hacer.
 
-- ChatBot: (enlace) 
+- ChatBot: https://t.me/nachovio_bot 
 
 - Banner:  (enlace) 
 
